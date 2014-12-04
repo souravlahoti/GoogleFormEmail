@@ -1,1 +1,4 @@
+
+/* Free to Use */
+
 This script prevents duplicate entry into the google spreadsheets using google form and notifies the user through email that he is already registered and for new users it will send automatic email that his record has been accepted.
